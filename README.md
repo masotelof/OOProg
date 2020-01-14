@@ -15,4 +15,4 @@ $ git pull
 
 ## Material
 
-El Material esta cargado en la plataforma de [Moodle](moodle.ia-ugto.mx/), es necesario ser estudiante de la **Universidad de Guanajuato** con correo electrónico con dominio _ugto.mx_ para poder acceder al material del curso.
+El Material esta cargado en la plataforma de [Moodle](http://moodle.ia-ugto.mx/), es necesario ser estudiante de la **Universidad de Guanajuato** con correo electrónico con dominio _ugto.mx_ para poder acceder al material del curso.
