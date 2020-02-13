@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>220</x>
+      <y>40</y>
+      <w>360</w>
+      <h>350</h>
+    </coordinates>
+    <panel_attributes>Producto
+--
+- Codigo: String
+- Marca: String
+- Modelo: String
+- Color: String
+- Talla: String
+- Precio: Float
+--
++ Producto(String, String, String, String, String, Float)
++ setCodigo(String): void
++ getCodigo(): String
++ setMarca(String): void
++ getMarca(): String
++ setModelo(String): void
++ getModelo(): String
++ setColor(String): void
++ getColor(): String
++ setTalla(String): void
++ getTalla(): String
++ setPrecio(Float): void
++ getPrecio(): Float</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
