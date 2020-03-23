@@ -1,5 +1,6 @@
 import Figuras.Circulo;
 import Figuras.Cuadrado;
+import Figuras.Cubo;
 import Figuras.Figura;
 
 public class principal {
@@ -29,5 +30,11 @@ public class principal {
             elemento.CalcularPerimetro();
             System.out.println(elemento);
         }
+
+        Cubo cubo = new Cubo(2f);
+        cubo.CalcularArea();
+        cubo.CalcularPerimetro();
+        cubo.CalcularVolumen();
+        System.out.println(cubo);
     }
 }

@@ -1,7 +1,7 @@
 package Figuras;
 
 public class Circulo extends Figura {
-    private Float Radio;
+    public Float Radio;
 
     public Circulo(Float radio) {
         Radio = radio;

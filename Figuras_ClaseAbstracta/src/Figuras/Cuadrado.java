@@ -1,7 +1,7 @@
 package Figuras;
 
 public class Cuadrado extends Figura{
-    private Float Lado;
+    protected Float Lado;
 
     public Cuadrado(Float lado) {
         Lado = lado;
